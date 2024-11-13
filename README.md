@@ -1,4 +1,4 @@
-# pdf__scrap
+# pdf__scrape
 
 ## INSTALLATION
 
